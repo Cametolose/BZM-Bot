@@ -44,6 +44,7 @@ python bot.py
 | `/griefer add <player>` | Adds a player to the online list. |
 | `/griefer remove <player>` | Removes a player from the online list. |
 | `/grieferlist` | Shows all player from the list. |
+| `/molten_powder <mode> <value>` | Calculates live prices of molten powder flip |
 
 ## **License**
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
