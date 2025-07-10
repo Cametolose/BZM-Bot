@@ -3,8 +3,8 @@
 A Discord bot built with `discord.py` that was used by BZM.
 
 ## **Features**
-✔️ **Verify Command** – Checks if a user's Hypixel account is linked to their Minecraft account and gives them a role. 
-✔️ **User Data Storage** – Saves Discord and Minecraft usernames in a `.json` file.  
+✔️ **Verify Command** – Checks if a user's Hypixel account is linked to their Minecraft account and gives them a role.
+✔️ **User Data Storage** – Saves Discord and Minecraft usernames in a `.json` file.
 ✔️ **Rollback** – Restores roles and sends a log to a designated channel.  
 ✔️ **Coinflip Simulation** – Flip a single coin or run multiple simulations.  
 ✔️ **Online Player List** – Manages a list of online players. Named "griefer" in my code.  
